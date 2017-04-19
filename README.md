@@ -1,1 +1,1 @@
-here is a scrapbook documenting what i have researched on linux academy
+scrapbook documenting subjects i have researched on linux academy
